@@ -1,0 +1,10 @@
+.pytest_cache
+.vscode
+/source/__pycache__
+/source/cred.py
+/venv/
+.idea
+.DS_Store
+auth.cpython*
+post.cpython*
+user.cpython*
